@@ -9,7 +9,6 @@ I lead tech projects with clarity, accountability, and results — from planning
 - Experience managing competition-winning and academic teams
 
 ## 🛠 How I Work
-- Tools: Trello, Notion, GitHub Projects, Google Sheets
 - Approach: Agile/Iterative development with regular updates
 - Roles: Student Coordinator, Hackathon Leader, Event Organizer
 
