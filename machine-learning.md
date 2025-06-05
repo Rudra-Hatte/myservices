@@ -1,24 +1,24 @@
-# 🤖 Machine Learning
+# 🤖 Machine Learning & Computer Vision
 
-I create intelligent systems that learn from data and deliver meaningful predictions or automation.
+I build intelligent systems that learn, detect, and act — combining ML with real-world applications.
 
-## 🔍 What I Offer
-- ML model development for classification, regression, and clustering
-- Feature selection, model tuning, and evaluation
-- Basic NLP (chatbots, sentiment analysis)
-- Recommendation systems (books, products, etc.)
+## 🚀 What I Offer
+- Real-time object detection with **YOLO** and **OpenCV**
+- Custom ML models for classification, prediction, and automation
+- Computer vision for agriculture, security, and UAVs
+- End-to-end model training, evaluation, and integration
 
-## ⚙️ Tools & Skills
-Python | Scikit-learn | Pandas | NumPy | NLTK | Matplotlib | Flask
+## 🧠 Notable Projects
+- **Autonomous UAV:** Built a drone that detects & follows objects using YOLOv3 + OpenCV
+- **Sugarcane Node Detection:** Used ML and vision to detect harvesting points in sugarcane images
+- **Face Recognition System:** Created a secure identity check system using OpenCV and facial embeddings
 
-## 🧠 Projects I've Built
-- Handwritten digit recognition
-- Feedback analyzer using sentiment scores
-- Student performance prediction model
+## 🛠 Tools & Stack
+Python | YOLO | OpenCV | Scikit-learn | TensorFlow | Keras | NumPy | Flask
 
-## 🚀 Why Me?
-- Strong foundations in ML with Python
-- Focus on simplicity and usability
-- Can build + deploy ML models into working web apps
+## ✅ Why Me?
+- Real-world, tested solutions across robotics, agriculture, and security
+- Experience in both model development and system integration
+- Focus on efficiency, accuracy, and deployable results
 
-Let's turn your data into smart solutions.
+Let’s turn your vision into intelligent action.
